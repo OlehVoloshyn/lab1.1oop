@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.1\lab1.1\Fraction.cpp(18,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  lab1.1.vcxproj -> C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.1\x64\Debug\lab1.1.exe
